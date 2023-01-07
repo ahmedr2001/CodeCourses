@@ -58,41 +58,26 @@
   [![Code Course Demo](https://img.youtube.com/vi/NsCgrbrXY88/0.jpg)](https://www.youtube.com/watch?v=NsCgrbrXY88)
 
 ### 📷 Screenshots:
-<div align='center'>  <h2> Homepage </h2> <img src="screenshots/GIFs/Homepage.gif" alt="Homepage" >
+<div align='center'>  <h2> Homepage </h2> <img src="screenshots/homepage.png" alt="Homepage" >
  </div>
  
- <div align='center'>  <h2> Exams </h2> <img src="screenshots/GIFs/Exam.gif" alt="Exams" >
+ <div align='center'>  <h2> Signup & Login </h2> <img src="screenshots/signup.png" alt="signup" > <img src="screenshots/login.png" alt="login" >
  </div>
  
-  <div align='center'>  <h2> Competitions </h2> <img src="screenshots/GIFs/Competitions.gif" alt="Competitions" >
+  <div align='center'>  <h2> Articles </h2> <img src="screenshots/showarticle.png" alt="Article" > <img src="screenshots/comments.png" alt="Comments" >
  </div>
  
-  <div align='center'>  <h2> Tournaments </h2> <img src="screenshots/GIFs/Tournaments.gif" alt="Tournaments" >
+  <div align='center'>  <h2> Courses </h2> <img src="screenshots/addcourse.png" alt="Courses" > <img src="screenshots/coursecontent.png" alt="Courses" ><img src="screenshots/coursereview.png" alt="Courses" > <img src="screenshots/showcourse.png" alt="Courses" > <img src="screenshots/addlesson.png" alt="Courses" >
  </div>
  
-   <div align='center'>  <h2> Support </h2> <img src="screenshots/GIFs/Donate.gif" alt="Donations" >
+   <div align='center'>  <h2> Quizzes </h2> <img src="screenshots/addquestion.gif" alt="Quizzes" > <img src="screenshots/addquiz.png" alt="Quizzes" > <img src="screenshots/showquiz.png" alt="Quizzes" > <img src="screenshots/takequiz.png" alt="Quizzes" > <img src="screenshots/takenquiz.png" alt="Quizzes" >
  </div>
  
- <div align='center'>  <h2> Profile </h2> <img src="screenshots/Image23.png" alt="Profile" > </div>
+ <div align='center'>  <h2> Chat Rooms </h2> <img src="screenshots/chatroom.png" alt="Chat" > </div>
  
- <div align='center'>  <h2> To-do-list </h2> <img src="screenshots/Image24.png" alt="To-Do List" ></div>
+ <div align='center'>  <h2> Profiles </h2> <img src="screenshots/studentprofile.png" alt="Profiles" ></div> <img src="screenshots/adminprofile.png" alt="Profiles" >
 
- <div align='center'>  <h2> And finally, Responsiveness </h2> <img src="screenshots/GIFs/Responsiveness.gif" alt="Desktop & Mobile" ></div>
-
+ <div align='center'>  <h2> Statistics </h2> <img src="screenshots/stats1.gif" alt="Stats" ></div> <img src="screenshots/stats2.png" alt="Stats" > <img src="screenshots/stats3.png" alt="Stats" > <img src="screenshots/stats4.png" alt="Stats" >
 <h1 align='center'> Thank You. </h1>
 
 
-#
-
-
-
-# Code-Courses
-This is our amazing Database Course Project with the amazing team . We will use Node js, React and SQL Server 
-It's distributed into three parts: 
-- Frontend : This will be where the React.js part happens and all the designs 
-- Backend : This will be all where Node.js part happens including APIs and Authentication 
-- Database: Here Will be the Scehema and the queries we used 
-
-You can find the demo here:
-
-[![Code Course Demo](https://img.youtube.com/vi/NsCgrbrXY88/0.jpg)](https://www.youtube.com/watch?v=NsCgrbrXY88)
