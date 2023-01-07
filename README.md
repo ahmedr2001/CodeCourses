@@ -54,7 +54,8 @@
 
 
 ---
-### 📷 Demo Video: [![Code Course Demo](https://img.youtube.com/vi/NsCgrbrXY88/0.jpg)](https://www.youtube.com/watch?v=NsCgrbrXY88)
+### 📷 Demo Video: 
+  [![Code Course Demo](https://img.youtube.com/vi/NsCgrbrXY88/0.jpg)](https://www.youtube.com/watch?v=NsCgrbrXY88)
 
 ### 📷 Screenshots:
 <div align='center'>  <h2> Homepage </h2> <img src="screenshots/GIFs/Homepage.gif" alt="Homepage" >
