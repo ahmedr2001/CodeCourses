@@ -21,7 +21,7 @@
   &ensp;&ensp;&ensp;&ensp;&ensp;  - <code>password: ""</code><br>
   &ensp;&ensp;&ensp;&ensp;&ensp;  - <code>database: 'codecourses'</code><br>
   &ensp;&ensp;&ensp;&ensp;&ensp;  - <code>port: 3306</code><br>
-  &ensp;&ensp;&ensp;&ensp;- Import the file <code>codecourses (1).sql</code> (in Database folder)<br>
+  &ensp;&ensp;&ensp;&ensp;- Import the file <code>codecourses.sql</code> (in Database folder)<br>
   Alternatively you can connect to the azure MySQL Database deployment (not stable)<br>
 <code>host: 'codecourses.mysql.database.azure.com', 
  user: 'codecourses@codecourses', 
