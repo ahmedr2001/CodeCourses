@@ -16,12 +16,12 @@
   ✔️ To run the database server:<br>
        &ensp;&ensp;&ensp;&ensp;- Install xampp https://sourceforge.net/projects/xampp/<br>
        &ensp;&ensp;&ensp;&ensp;- Run the server with connection parameters:<br> 
-       &ensp;&ensp;&ensp;&ensp;&ensp;  - host: 'localhost'<br>
-       &ensp;&ensp;&ensp;&ensp;&ensp;  - user: 'root'<br>
-       &ensp;&ensp;&ensp;&ensp;&ensp;  - password: ""<br>
-       &ensp;&ensp;&ensp;&ensp;&ensp;  - database: 'codecourses'<br>
-       &ensp;&ensp;&ensp;&ensp;&ensp;  - port: 3306<br>
-  &ensp;&ensp;&ensp;&ensp;- Import the file <b>codecourses (1).sql</b> (in Database folder)<br>
+  &ensp;&ensp;&ensp;&ensp;&ensp;  - <code>host: 'localhost'</code><br>
+  &ensp;&ensp;&ensp;&ensp;&ensp;  - <code>user: 'root'</code><br>
+  &ensp;&ensp;&ensp;&ensp;&ensp;  - <code>password: ""</code><br>
+  &ensp;&ensp;&ensp;&ensp;&ensp;  - <code>database: 'codecourses'</code><br>
+  &ensp;&ensp;&ensp;&ensp;&ensp;  - <code>port: 3306</code><br>
+  &ensp;&ensp;&ensp;&ensp;- Import the file <code>codecourses (1).sql</code> (in Database folder)<br>
   Alternatively you can connect to the azure MySQL Database deployment (not stable)<br>
 <code>host: 'codecourses.mysql.database.azure.com', 
  user: 'codecourses@codecourses', 
