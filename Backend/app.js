@@ -19,7 +19,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://codecources.azurewebsites.net/",
+        url: "http://localhost:4000",
       },
     ],
   },
