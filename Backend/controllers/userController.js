@@ -119,7 +119,7 @@ module.exports = {
       }
       if (req.file?.path != null && req.file?.path != "") {
         let imagePath = req.file.path
-        imagePath = "https://codecources.azurewebsites.net/" + imagePath.replace('\\', '/')
+        imagePath = "http://localhost:4000/" + imagePath.replace('\\', '/');
         await userRepo.editImage(username, imagePath);
 
       }

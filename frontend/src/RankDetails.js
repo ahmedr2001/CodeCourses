@@ -1,6 +1,6 @@
 
 export const ranks = ['Newbie', 'Pupil', 'Specialist', 'Expert', 'CM', 'IM', 'GM', 'IGM', 'LGM'];
-export const min_scores_per_rank = [0, 1200, 1400, 1600, 1900, 2100, 2300, 2400, 2600, 3000]
+export const min_scores_per_rank = [0, 120, 160, 200, 240, 250, 290, 330, 400, 1300]
 
 export const bg_styles = [
     'linear-gradient(90deg, #2C3E50 34.9%, #BDC3C7 98.96%)',
